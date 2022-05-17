@@ -4,7 +4,7 @@
 <br>
 
 <p align="center">
- <a target="_blank" href=https://github.com/kevinkingslni>
+ <a target="_blank" href=https://github.com/kevinkingslin>
   <img src=https://img.shields.io/github/followers/kevinkingslin?label=follow%20me&style=social />
   &nbsp;
 </a>
