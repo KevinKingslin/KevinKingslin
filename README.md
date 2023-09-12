@@ -1,5 +1,5 @@
 <h2 align="center">Hey Everyone! 👋</h2>
-<h3 align="center">I'm Kevin Kingslin, CS sophomore @ IIEST</h3>
+<h3 align="center">I'm Kevin Kingslin, Final Year CS @ IIEST</h3>
 
 <br>
 
